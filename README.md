@@ -10,7 +10,7 @@ An interactive visualization of the A* search algorithm using a PyGame interface
 
 [Install python](https://www.python.org/downloads/) and the required libraries (must have [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/) installed):
 ```
-pip install python-pygame
+pip install pygame
 ```
 
 ## 🖥️ Running the Program
